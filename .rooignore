@@ -1,0 +1,26 @@
+# Системные папки Godot и кэш
+.godot/
+android/
+
+# Внутренние файлы Godot (ИИ они не нужны)
+*.uid
+export_presets.cfg
+
+# Графика и визуал (ИИ их не видит)
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Звук и музыка (ИИ их не слышит)
+*.wav
+*.ogg
+*.mp3
+
+# Твои временные и тестовые файлы
+new_file.txt
+out.txt
+
+# Системный мусор Windows/Mac
+Thumbs.db
+.DS_Store
